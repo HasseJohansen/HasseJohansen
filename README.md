@@ -1,1 +1,1 @@
-Hello there
+![Metrics](/metrics.classic.svg)
